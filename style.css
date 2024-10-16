@@ -1,0 +1,48 @@
+.container1{
+	background-color: ;
+	font-family: monospace;
+	text-align: center;
+	text-size-adjust: 90p;
+}
+
+.container2{
+	background-color: lightskyblue;
+	font-family: monospace;
+    width: 500px;
+    height: 500px;
+    padding: 10px;
+    border: 3px dotted black;
+    box-shadow: 2px 2px 5px rgb(0,0,0, 0.8);
+    margin: auto;
+    text-align: center;
+
+}
+
+body {
+	background-image: url(https://wallpapers-clan.com/wp-content/uploads/2023/12/aesthetic-mountain-lake-desktop-wallpaper-preview.jpg);
+	background-repeat: no repeat;
+	background-size: cover;
+    background-attachment: fixed;
+
+}
+
+LABEL{
+	font-style: italic;
+	font-weight: bold;
+
+}
+
+#submit{
+	backround-color: white;
+	color: white;
+	border-radius: 15px;
+	font-size: 20px;
+
+}
+
+h1 { 
+font-size: 60px }
+
+label {
+	font-size: 20px
+}
